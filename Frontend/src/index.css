@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100..900&display=swap');
+@import "tailwindcss";
+
+@theme {
+    --color-base: #FAF8F5;
+    --color-primary: #F5E8D0;
+    --color-secondary: #3E5A3E;
+    
+    /* Fonts */
+    --font-mont: "Montserrat", sans-serif;
+}
